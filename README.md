@@ -8,9 +8,6 @@ I’ve developed technical expertise in machine learning algorithms, Python, and
 
 I combine my marketing experience—understanding business objectives and customer needs—with technical proficiency in Python, SQL, and data visualization tools to extract meaningful insights from complex datasets. I am excited about exploring new opportunities where I can leverage my blend of marketing insights and data science expertise to drive business performance. I’m open to new challenges and welcome opportunities to relocate for the right role.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
-
-- 
 ## Project of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
