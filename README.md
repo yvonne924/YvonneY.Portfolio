@@ -8,19 +8,20 @@ I’ve developed technical expertise in machine learning algorithms, Python, and
 
 I combine my marketing experience—understanding business objectives and customer needs—with technical proficiency in Python, SQL, and data visualization tools to extract meaningful insights from complex datasets. I am excited about exploring new opportunities where I can leverage my blend of marketing insights and data science expertise to drive business performance. I’m open to new challenges and welcome opportunities to relocate for the right role.
 
+Fine my CV in[pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/65fedf11a67ec64b0f323211b25b2bcc5d014cae/Yeung_lai_CV_2024.pdf)
+
 ## Project of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [A/B Testing on Website Theme](https://github.com/yvonne924/YvonneY.Portfolio/blob/891c69a471330e81bc6eeb1e1b261026c7b4dea1/Python/AB%20test.ipynb)
-
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    
   - MySQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
+    - [Sleep Health and Lifestyle Analysis (Study Project)](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ac666382b3f538040fd2646f98a8256ae96423d/R/Sleep%20Health%20and%20Lifestyle%20Dataset_2.pdf)
+  - Excel 
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
   
