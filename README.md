@@ -14,8 +14,7 @@ Fine my CV in[pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/65fedf11a
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [A/B Testing on Website Theme](https://github.com/yvonne924/YvonneY.Portfolio/blob/891c69a471330e81bc6eeb1e1b261026c7b4dea1/Python/AB%20test.ipynb)
-    
+    - [A/B Testing on Website Theme](https://github.com/yvonne924/YvonneY.Portfolio/blob/3d40612d87d940309a6b0144bd59dfea9234d419/Python/AB%20test.ipynb)
   - MySQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
