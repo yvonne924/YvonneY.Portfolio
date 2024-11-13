@@ -17,7 +17,7 @@ Fine my CV in[pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/65fedf11a
     - [Health Insurance Analysis with xgboost/catboost](https://github.com/yvonne924/YvonneY.Portfolio/blob/83ededfc79d23e4437f15bd75f0d930a8ff7f3ec/Python/insurance-cross-analysis-xgboost-catboost%20copy.ipynb)
     - [Loan Approval Prediction Analysis](https://github.com/yvonne924/YvonneY.Portfolio/blob/31646571f1804af16d2d30a42da32c2299e80e7d/Python/Loan%20Approval%20Prediction%20Analysis.ipynb)
   - MySQL
-  - [Analyzing Students' Mental Health]
+  - [Analyzing Students' Mental Health](https://github.com/yvonne924/YvonneY.Portfolio/blob/b4d12f41ab22d8f493785b06387fd02ef025159b/SQL/Analyzing%20Students'%20Mental%20Health.ipynb)
 
   - R
     - [Sleep Health and Lifestyle Analysis (Study Project)](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ac666382b3f538040fd2646f98a8256ae96423d/R/Sleep%20Health%20and%20Lifestyle%20Dataset_2.pdf)
