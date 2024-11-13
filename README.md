@@ -1,5 +1,5 @@
 # Yeung Lai_Yvonne.Portfolio
-# Data Scientist
+# Business Data Analysis
 
 ## About
 Hi, my name is Yeung Lai, but you can call me Yvonne. I'm originally from Hong Kong and moved to Japan in 2022. Currently, I am pursuing a Master’s degree in Information Technology at Kyoto, where I’m focusing on business data science. With over five years of experience in marketing and production, I have honed a results-oriented approach to achieving business goals.
