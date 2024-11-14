@@ -21,7 +21,8 @@ Fine my CV in[pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/65fedf11a
 
   - R
     - [Sleep Health and Lifestyle Analysis (Study Project)](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ac666382b3f538040fd2646f98a8256ae96423d/R/Sleep%20Health%20and%20Lifestyle%20Dataset_2.pdf)
-  - Excel 
+  - Excel
+    -[Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
   - Power BI
   
 ## Certificates
