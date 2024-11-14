@@ -11,17 +11,17 @@ I combine my marketing experience—understanding business objectives and custom
 Find my CV in[pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/65fedf11a67ec64b0f323211b25b2bcc5d014cae/Yeung_lai_CV_2024.pdf)
 
 ## Project of Contents
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+[Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [A/B Testing on Website Theme](https://github.com/yvonne924/YvonneY.Portfolio/blob/3d40612d87d940309a6b0144bd59dfea9234d419/Python/AB%20test.ipynb)
     - [Health Insurance Analysis with xgboost/catboost](https://github.com/yvonne924/YvonneY.Portfolio/blob/83ededfc79d23e4437f15bd75f0d930a8ff7f3ec/Python/insurance-cross-analysis-xgboost-catboost%20copy.ipynb)
     - [Loan Approval Prediction Analysis](https://github.com/yvonne924/YvonneY.Portfolio/blob/31646571f1804af16d2d30a42da32c2299e80e7d/Python/Loan%20Approval%20Prediction%20Analysis.ipynb)
   - MySQL
-    -[Analyzing Students' Mental Health](https://github.com/yvonne924/YvonneY.Portfolio/blob/b4d12f41ab22d8f493785b06387fd02ef025159b/SQL/Analyzing%20Students'%20Mental%20Health.ipynb)
+    - [Analyzing Students' Mental Health](https://github.com/yvonne924/YvonneY.Portfolio/blob/b4d12f41ab22d8f493785b06387fd02ef025159b/SQL/Analyzing%20Students'%20Mental%20Health.ipynb)
   - R
-    -[Sleep Health and Lifestyle Analysis (Study Project)](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ac666382b3f538040fd2646f98a8256ae96423d/R/Sleep%20Health%20and%20Lifestyle%20Dataset_2.pdf)
+    - [Sleep Health and Lifestyle Analysis (Study Project)](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ac666382b3f538040fd2646f98a8256ae96423d/R/Sleep%20Health%20and%20Lifestyle%20Dataset_2.pdf)
   - Excel
-    -[Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
+    - [Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
   - Power BI
   
 ## Certificates
