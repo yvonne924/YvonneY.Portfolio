@@ -1,0 +1,4 @@
+admin,adminpass,ADMIN,35,Female,65.0,160.0,0,0
+trainer,trainerpass,TRAINER,40,Male,80.0,180.0,0,0
+user,user,USER,20,Male,78.0,172.1,1300,500
+test,test,USER,18,Male,98.0,152.0,1500,120
