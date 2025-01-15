@@ -8,7 +8,7 @@ I’ve developed technical expertise in machine learning algorithms, Python, and
 
 I combine my marketing experience—understanding business objectives and customer needs—with technical proficiency in Python, SQL, and data visualization tools to extract meaningful insights from complex datasets. I am excited about exploring new opportunities where I can leverage my blend of marketing insights and data science expertise to drive business performance. I’m open to new challenges and welcome opportunities to relocate for the right role.
 
-Find my CV in[pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/65fedf11a67ec64b0f323211b25b2bcc5d014cae/Yeung_lai_CV_2024.pdf)
+Find my CV in [Here]([YeungLai_Yvonne_CV_25.pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/906075d62c09bebbf4355133b81dd3c364d6ab0f/YeungLai_Yvonne_CV_25.pdf))
 
 ## Project of Contents
 [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
