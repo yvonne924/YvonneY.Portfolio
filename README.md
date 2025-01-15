@@ -23,7 +23,8 @@ Find my CV in[pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/65fedf11a
   - Excel/Power BI
     - [Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
   - Tableau
-  - https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+    - Netflix project
+    - https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
 ## Certificates
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/verification) (number: 83e3e72ad706488d9c7c84997807427b) (Sep 2024)(Amazon - AWS)
