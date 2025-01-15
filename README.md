@@ -20,9 +20,10 @@ Find my CV in[pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/65fedf11a
     - [Analyzing Students' Mental Health](https://github.com/yvonne924/YvonneY.Portfolio/blob/b4d12f41ab22d8f493785b06387fd02ef025159b/SQL/Analyzing%20Students'%20Mental%20Health.ipynb)
   - R
     - [Sleep Health and Lifestyle Analysis (Study Project)](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ac666382b3f538040fd2646f98a8256ae96423d/R/Sleep%20Health%20and%20Lifestyle%20Dataset_2.pdf)
-  - Excel
+  - Excel/Power BI
     - [Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
-  - Power BI
+  - Tableau
+  - https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
 ## Certificates
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/verification) (number: 83e3e72ad706488d9c7c84997807427b) (Sep 2024)(Amazon - AWS)
