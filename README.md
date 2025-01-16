@@ -22,6 +22,7 @@ Find my CV in [Here]([YeungLai_Yvonne_CV_25.pdf](https://github.com/yvonne924/Yv
     - [Sleep Health and Lifestyle Analysis (Study Project)](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ac666382b3f538040fd2646f98a8256ae96423d/R/Sleep%20Health%20and%20Lifestyle%20Dataset_2.pdf)
   - Excel/Power BI
     - [Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
+    - [Grocery Data Dashboard in power BI](https://github.com/yvonne924/YvonneY.Portfolio/tree/6bd0435745cd9e9cd6204b52904a6c1200f70bf1/Excel/Grocery%20Data%20analysis)
   - Tableau
     - [Netflix project](https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   -Java_IntelliJ IDEA
