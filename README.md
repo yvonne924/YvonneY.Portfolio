@@ -12,7 +12,7 @@ Find my CV in [Here]([YeungLai_Yvonne_CV_25.pdf](https://github.com/yvonne924/Yv
 
 ## Project of Contents
 [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - Python
+  - Python(#portfolio-projects)
     - [A/B Testing on Website Theme](https://github.com/yvonne924/YvonneY.Portfolio/blob/3d40612d87d940309a6b0144bd59dfea9234d419/Python/AB%20test.ipynb)
     - [Health Insurance Analysis with xgboost/catboost](https://github.com/yvonne924/YvonneY.Portfolio/blob/83ededfc79d23e4437f15bd75f0d930a8ff7f3ec/Python/insurance-cross-analysis-xgboost-catboost%20copy.ipynb)
     - [Loan Approval Prediction Analysis](https://github.com/yvonne924/YvonneY.Portfolio/blob/31646571f1804af16d2d30a42da32c2299e80e7d/Python/Loan%20Approval%20Prediction%20Analysis.ipynb)
@@ -27,6 +27,16 @@ Find my CV in [Here]([YeungLai_Yvonne_CV_25.pdf](https://github.com/yvonne924/Yv
     - [Netflix project](https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   -Java_IntelliJ IDEA
    -[Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java) 
+
+### Python Project
+
+In this section, I will list the data analytics projects I have completed using Python.
+
+### A/B Testing 
+- **Code**[A/B Testing on Website Theme](https://github.com/yvonne924/YvonneY.Portfolio/blob/3d40612d87d940309a6b0144bd59dfea9234d419/Python/AB%20test.ipynb)
+
+### Health Insurance Analysis with xgboost/catboost
+- **Code**[Health Insurance Analysis with xgboost/catboost](https://github.com/yvonne924/YvonneY.Portfolio/blob/83ededfc79d23e4437f15bd75f0d930a8ff7f3ec/Python/insurance-cross-analysis-xgboost-catboost%20copy.ipynb)
 ## Certificates
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/verification) (number: 83e3e72ad706488d9c7c84997807427b) (Sep 2024)(Amazon - AWS)
 - [Excel Skills for Data Analytics and Visualization](https://coursera.org/share/a2e8bc4bffdf10f7a8ed8122e4262cba) (Oct 2024) (Coursera - Macquarie University, Sydeny Australia)
