@@ -1,3 +1,4 @@
-title: Yeung Lai Yvonne
+title: "Yeung Lai Yvonne"
 show_downloads: true
-theme: - jekyll-remote-theme
+theme:
+  - jekyll-remote-theme
