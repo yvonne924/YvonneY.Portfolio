@@ -11,7 +11,6 @@ I combine my marketing experience—understanding business objectives and custom
 Find my CV in [Here]([YeungLai_Yvonne_CV_25.pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/906075d62c09bebbf4355133b81dd3c364d6ab0f/YeungLai_Yvonne_CV_25.pdf))
 
 ## Project of Contents
-[Portfolio Projects]
   - Python(#portfolio-projects)
     - [A/B Testing on Website Theme](https://github.com/yvonne924/YvonneY.Portfolio/blob/3d40612d87d940309a6b0144bd59dfea9234d419/Python/AB%20test.ipynb)
     - [Health Insurance Analysis with xgboost/catboost](https://github.com/yvonne924/YvonneY.Portfolio/blob/83ededfc79d23e4437f15bd75f0d930a8ff7f3ec/Python/insurance-cross-analysis-xgboost-catboost%20copy.ipynb)
