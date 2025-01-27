@@ -47,7 +47,7 @@ In this section, I will list the data analytics projects I have completed using 
 • Libraries: Python library, Pandas, Plotly, Statsmodels, Seaborn, Matplotlib
 • Tools: Jupyter Notebook
 - **Results**: The Light Theme slightly outperformed the Dark Theme in purchases and cart additions, with conversion rates of 53.09% (Light) and 50.39% (Dark). However, statistical analysis (p-value = 0.394) indicated that these differences were not significant, suggesting that the observed performance variation could be due to random chance.
-![image](https://github.com/user-attachments/assets/6193c5f4-d28c-48b4-bc4b-e64e6abcc458)
+![image](https://github.com/yvonne924/YvonneY.Portfolio/blob/a1cad58c36a1a9ea43a523621b36b8242510ca2e/img/AB%20testing.png)
 
 
 ### Insurance Cross-Sell Analysis
