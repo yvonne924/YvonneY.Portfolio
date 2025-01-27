@@ -8,7 +8,7 @@ I’ve developed technical expertise in machine learning algorithms, Python, and
 
 I combine my marketing experience—understanding business objectives and customer needs—with technical proficiency in Python, SQL, and data visualization tools to extract meaningful insights from complex datasets. I am excited about exploring new opportunities where I can leverage my blend of marketing insights and data science expertise to drive business performance. I’m open to new challenges and welcome opportunities to relocate for the right role.
 
-Find my CV in [Here]([YeungLai_Yvonne_CV_25.pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/906075d62c09bebbf4355133b81dd3c364d6ab0f/YeungLai_Yvonne_CV_25.pdf))
+Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/YvonneY.Portfolio/blob/aa23578d8504fe9ddefa611148826b6a9ecea84e/YeungLai_Yvonne_CV.pdf))
 
 ## Project of Contents
   - [Python Projects](#python-projects)
@@ -22,7 +22,7 @@ Find my CV in [Here]([YeungLai_Yvonne_CV_25.pdf](https://github.com/yvonne924/Yv
   - [Excel/Power BI Projects](#excel/power-bi-projects)
     - [Coffee shop Sales Dashboard](#coffee-shop-sales-dashboard)
     - [Grocery Data Dashboard in Power BI](#grocery-data-dashboard-in-power-bi)
-  - [Tableau Projects] (#tableau-projects)
+  - [Tableau Projects](#tableau-projects)
     - [Netflix Data Dashboard](#netflix-data-dashboard)
   -[IntelliJ IDEA(Java)](#IntelliJ-IDEA(Java))
    -[Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java)
