@@ -128,11 +128,11 @@ In this section, I will list the data analytics projects I have completed using 
 ### Tableau Projects
 
 ### Netflix Data Dashboard
--**Code**:[Netflix project](https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Code**:[Netflix project](https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### IntelliJ IDEA(Java)
-###Fitness tracking system
--**Code**: [Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java) 
+### Fitness tracking system
+- **Code**:[Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java) 
 
 ## Certificates
 - [Google Cloud Data Analytics Certificate](https://www.credly.com/badges/9e45beff-20ba-4502-ac12-b7bad6df5330)(Jan 2025)(Google Cloud)
