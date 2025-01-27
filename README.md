@@ -24,8 +24,8 @@ Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/Yvonn
     - [Grocery Data Dashboard in Power BI](#grocery-data-dashboard-in-power-bi)
   - [Tableau Projects](#tableau-projects)
     - [Netflix Data Dashboard](#netflix-data-dashboard)
-  -[IntelliJ IDEA(Java)](#IntelliJ-IDEA(Java))
-    -[Fitness tracking system](#fitness-tracking-system)
+  - [IntelliJ IDEA(Java)](#intellij-idea(java))
+    - [Fitness tracking system](#fitness-tracking-system)
   - [Certificates](#certificates)
   - [Contacts](#contacts)
 
