@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1c3c3159-545c-4049-af14-dde45896cb53)# Yeung Lai_Yvonne.Portfolio
+# Yeung Lai_Yvonne.Portfolio
 # Business Data Analysis
 
 ## About
