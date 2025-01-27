@@ -25,7 +25,7 @@ Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/Yvonn
   - [Tableau Projects](#tableau-projects)
     - [Netflix Data Dashboard](#netflix-data-dashboard)
   -[IntelliJ IDEA(Java)](#IntelliJ-IDEA(Java))
-   -[Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java)
+    -[Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java)
   - [Certificates](#certificates)
   - [Contacts](#contacts)
 
@@ -86,7 +86,7 @@ In this section, I will list the data analytics projects I have completed using 
 
 ### Analyzing Students' Mental Health 
 
--**Code**: [Analyzing Students' Mental Health](https://github.com/yvonne924/YvonneY.Portfolio/blob/b4d12f41ab22d8f493785b06387fd02ef025159b/SQL/Analyzing%20Students'%20Mental%20Health.ipynb)
+- **Code**: [Analyzing Students' Mental Health](https://github.com/yvonne924/YvonneY.Portfolio/blob/b4d12f41ab22d8f493785b06387fd02ef025159b/SQL/Analyzing%20Students'%20Mental%20Health.ipynb)
 - **Goal**:Understand the impact of studying in a foreign country on the mental health of international students, focusing on the relationships between depression, social connectedness, acculturative stress, and length of stay using survey data from Japanese international university. 
 -  **Description**: xplored a dataset of 286 student records, containing variables such as depression scores (PHQ-9), social connectedness scores (SCS), acculturative stress scores (ASISS), language proficiency, and length of stay. Used PostgreSQL to clean the data, calculate summary statistics, and investigate relationships between variables. Conducted further analysis to compare international and domestic students' mental health outcomes and examined how factors such as age, length of stay, and language proficiency influenced acculturative stress and depression.
 - **Skills**:
@@ -103,7 +103,7 @@ In this section, I will list the data analytics projects I have completed using 
 ### R Projects
 
 ### Sleep Health and Lifestyle Analysis (Study Project)
--**Code**:[Sleep Health and Lifestyle Analysis (Study Project)](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ac666382b3f538040fd2646f98a8256ae96423d/R/Sleep%20Health%20and%20Lifestyle%20Dataset_2.pdf)
+- **Code**:[Sleep Health and Lifestyle Analysis (Study Project)](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ac666382b3f538040fd2646f98a8256ae96423d/R/Sleep%20Health%20and%20Lifestyle%20Dataset_2.pdf)
 
 - **Goal**: To investigate the relationship between physical activity levels and sleep quality using the “Sleep Health and Lifestyle” dataset, and to validate hypotheses through statistical analysis and data visualization. 
 -  **Description**:Analyzed a dataset containing 374 subjects with 13 variables, including sleep duration, quality of sleep, physical activity levels, stress levels, BMI category, and presence of sleep disorders. Conducted correlation analysis, statistical tests and created visualizations to explore the impact of physical activity on sleep quality.
@@ -119,16 +119,16 @@ In this section, I will list the data analytics projects I have completed using 
 
 ### Excel/Power BI Projects
 
-###Coffee shop Sales Dashboard
--**Code** [Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
+### Coffee shop Sales Dashboard
+- **Code**:[Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
 
 ### Grocery Data Dashboard in Power BI
---**Code**: [Grocery Data Dashboard in Power BI](https://github.com/yvonne924/YvonneY.Portfolio/tree/6bd0435745cd9e9cd6204b52904a6c1200f70bf1/Excel/Grocery%20Data%20analysis)
+- **Code**: [Grocery Data Dashboard in Power BI](https://github.com/yvonne924/YvonneY.Portfolio/tree/6bd0435745cd9e9cd6204b52904a6c1200f70bf1/Excel/Grocery%20Data%20analysis)
 
 ### Tableau Projects
 
 ### Netflix Data Dashboard
--**Code**[Netflix project](https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+-**Code**:[Netflix project](https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### IntelliJ IDEA(Java)
 ###Fitness tracking system
