@@ -52,7 +52,7 @@ In this section, I will list the data analytics projects I have completed using 
 
 ### Insurance Cross-Sell Analysis
 
-- **Code**:[Insurance Cross-Sell Analysis](https://github.com/yvonne924/YvonneY.Portfolio/blob/83ededfc79d23e4437f15bd75f0d930a8ff7f3ec/Python/insurance-cross-analysis-xgboost-catboost%20copy.ipynb)
+- **Code**:[Insurance Cross-Sell Analysis](https://github.com/yvonne924/YvonneY.Portfolio/blob/07077b13d0f2077f817d575ea1c83d6ac23ad833/Python/insurance-cross-analysis-xgboost-catboost.pdf)
 - **Goal**: To predict which customers respond positively to an automobile insurance offer. 
 -  **Description**: This notebook focuses on evaluating the performance of a predictive model using the Area Under the Receiver Operating Characteristic Curve (AUC-ROC). Utilized machine learning techniques XGBoost and CatBoost to evaluate predictive models. The aim was to identify high-potential customers.
 - **Skills**:
