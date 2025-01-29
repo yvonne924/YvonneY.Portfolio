@@ -46,8 +46,6 @@ In this section, I will list the data analytics projects I have completed using 
 • Libraries: Python library, Pandas, Plotly, Statsmodels, Seaborn, Matplotlib
 • Tools: Jupyter Notebook
 - **Results**: The Light Theme slightly outperformed the Dark Theme in purchases and cart additions, with conversion rates of 53.09% (Light) and 50.39% (Dark). However, statistical analysis (p-value = 0.394) indicated that these differences were not significant, suggesting that the observed performance variation could be due to random chance.
-![image](https://github.com/yvonne924/YvonneY.Portfolio/blob/6b8e9c87375052466933f5817feb9a556bbf154a/img/AB%20testing.png)
-
 
 ### Insurance Cross-Sell Analysis
 
@@ -119,7 +117,11 @@ In this section, I will list the data analytics projects I have completed using 
 ### Excel/Power BI Projects
 
 ### Coffee shop Sales Dashboard
-- **Code**:[Coffee shop Sales Dashboard in Excel](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
+- **Code**:[Coffee shop Sales Dashboard in Excel](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ed1520c32d9204a64626dd1cc3cbd89d5cfa8fc/Excel-PowerBI/Coffee%20Shop%20Sales.xlsx)
+- **Objective**:The goal of this project is to analyze and visualize coffee sales data across different locations, time periods, and product categories. The dashboard provides insights into revenue trends, transaction volumes, and the best-performing products to help optimize sales strategies and operational efficiency.
+- **Business Insights and Recommendations for Data-Driven Decisions**:In Lower Manhattan, we see a clear spike in sales between 7 a.m. and 10 a.m. on Monday. Toward the evening, between 7 p.m. and 8 p.m., sales drop noticeably, with espresso and brewed coffee being the highest-selling products. From this pattern, we can gain insight: continuing to keep the store open during low-demand hours may lead to financial losses. Therefore, after 6 p.m., we could improve margins by adjusting our operating hours.
+
+In Astoria, transactions remain fairly steady throughout the day, but the most popular product is chai tea. Based on this, we could develop a wider variety of chai tea options or launch a marketing campaign to boost sales further.
 
 ### Grocery Data Dashboard in Power BI
 - **Demonstrate Video**: [Grocery Data Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/76e8a843b4c31a532fe7ff1b3afed2c87eabd562/Excel-PowerBI/Grocery%20Data%20Dashboard.mp4)
@@ -127,7 +129,7 @@ In this section, I will list the data analytics projects I have completed using 
 This dashboard perform a sales performance report for Blinkit, an online grocery delivery service in India. The key metrics and visualizations provide insights into sales performance, item distribution, and outlet types.
 - **Business requirement**: 
 To conduct a comprehensive analysis of Blinkt's sales performance, customer satisfaction, and inventory distriburion to identify key insights and opportunites for optimization using various KPIs and visualizations in PowerBI.
--** Key Insight**:
+- ** Key Insight**:
   •	Tier 3 outlets contribute the most to total sales ($472K), followed by Tier 2 ($393K).
   •	Supermarket Type 2 is the best-performing outlet type in terms of total sales and number of items sold.
   •	Fruits, snacks, and household items are the highest-selling categories.
