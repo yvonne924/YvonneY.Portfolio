@@ -123,7 +123,20 @@ In this section, I will list the data analytics projects I have completed using 
 - **Code**:[Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
 
 ### Grocery Data Dashboard in Power BI
-- **Code**: [Grocery Data Dashboard in Power BI](https://github.com/yvonne924/YvonneY.Portfolio/tree/6bd0435745cd9e9cd6204b52904a6c1200f70bf1/Excel/Grocery%20Data%20analysis)
+- **Demonstrate Video**: [Grocery Data Dashboard in Power BI](https://github.com/yvonne924/YvonneY.Portfolio/tree/6bd0435745cd9e9cd6204b52904a6c1200f70bf1/Excel/Grocery%20Data%20analysis)
+### Hostital Emergency Room Dashboard Dashboard in Power BI
+**Demonstrate Video**:
+- **Goal**: 
+To enhance operational, efficiency and provide actionable insight into emergency room performance, by created
+the dashboard will enable stakeholders to track, analyze, and data-driven decisions regarding patient management and service optimization. 
+- **About the dataset**:
+The emergency room dataset, covering a period of 19 months, records total of 9,216 unique patients. The dataset included patients’ basic information like name, age, gender and race also included wait time admission status and satisfaction score to identify the hospital emergency room performance. 
+- **Key insight**:
+The Average wait time was approximately 35.3 minutes, Average satisfaction score was 4.99 out of 10. 
+The peak busiest period is on Saturday (1368) and Sunday (1361). The busiest hours were 13-14, 15-16, suggest we need to have more staff on duty to reduce the pressure of understaff.
+Age Groups: Adults (30 - 39 Years formed a large group (1200 Patients), followed by young adults (20 - 29 Years) with 1188 patients. 
+- **Summary**:
+The dataset reveals high patient volumes, moderate satisfaction levels, and common referrals to General Practice and Orthopedics. Saturday and Sunday are particularly busy. The patient demographics show a diverse age and racial composition, with nearly equal numbers of admitted and non-admitted patients. These insights can help optimize resource allocation and improve patient care in the emergency room.
 
 ### Tableau Projects
 
