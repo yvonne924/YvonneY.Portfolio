@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/b3af912c-f92e-4d54-a9a9-c3bf7e55141f)# Yeung Lai_Yvonne.Portfolio
 # Business Data Analysis
 
 ## About
@@ -120,10 +119,10 @@ In this section, I will list the data analytics projects I have completed using 
 ### Excel/Power BI Projects
 
 ### Coffee shop Sales Dashboard
-- **Code**:[Coffee shop Sales Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
+- **Code**:[Coffee shop Sales Dashboard in Excel](https://github.com/yvonne924/YvonneY.Portfolio/blob/64c305d49a9fead70fbb9b73a18ebe9c0cde065c/Excel/Coffee%20Shop%20Sales.xlsx)
 
 ### Grocery Data Dashboard in Power BI
-- **Demonstrate Video**: [Grocery Data Dashboard in Power BI](https://github.com/yvonne924/YvonneY.Portfolio/tree/6bd0435745cd9e9cd6204b52904a6c1200f70bf1/Excel/Grocery%20Data%20analysis)
+- **Demonstrate Video**: [Grocery Data Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/76e8a843b4c31a532fe7ff1b3afed2c87eabd562/Excel-PowerBI/Grocery%20Data%20Dashboard.mp4)
 - **Summary**: 
 This dashboard perform a sales performance report for Blinkit, an online grocery delivery service in India. The key metrics and visualizations provide insights into sales performance, item distribution, and outlet types.
 - **Business requirement**: 
@@ -134,8 +133,8 @@ To conduct a comprehensive analysis of Blinkt's sales performance, customer sati
   •	Fruits, snacks, and household items are the highest-selling categories.
   •	Sales peaked in 2018, indicating a potential growth phase during that year.
 
-### Hostital Emergency Room Dashboard Dashboard in Power BI
-**Demonstrate Video**:
+### Hostital Emergency Room Dashboard in Power BI
+**Demonstrate Video**:[Hostital Emergency Room Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/76e8a843b4c31a532fe7ff1b3afed2c87eabd562/Excel-PowerBI/Hostital_er.mp4)
 - **Goal**: 
 To enhance operational, efficiency and provide actionable insight into emergency room performance, by created
 the dashboard will enable stakeholders to track, analyze, and data-driven decisions regarding patient management and service optimization. 
