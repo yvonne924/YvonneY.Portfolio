@@ -1,4 +1,4 @@
-# Yeung Lai_Yvonne.Portfolio
+![image](https://github.com/user-attachments/assets/b3af912c-f92e-4d54-a9a9-c3bf7e55141f)# Yeung Lai_Yvonne.Portfolio
 # Business Data Analysis
 
 ## About
@@ -124,6 +124,16 @@ In this section, I will list the data analytics projects I have completed using 
 
 ### Grocery Data Dashboard in Power BI
 - **Demonstrate Video**: [Grocery Data Dashboard in Power BI](https://github.com/yvonne924/YvonneY.Portfolio/tree/6bd0435745cd9e9cd6204b52904a6c1200f70bf1/Excel/Grocery%20Data%20analysis)
+- **Summary**: 
+This dashboard perform a sales performance report for Blinkit, an online grocery delivery service in India. The key metrics and visualizations provide insights into sales performance, item distribution, and outlet types.
+- **Business requirement**: 
+To conduct a comprehensive analysis of Blinkt's sales performance, customer satisfaction, and inventory distriburion to identify key insights and opportunites for optimization using various KPIs and visualizations in PowerBI.
+-** Key Insight**:
+  •	Tier 3 outlets contribute the most to total sales ($472K), followed by Tier 2 ($393K).
+  •	Supermarket Type 2 is the best-performing outlet type in terms of total sales and number of items sold.
+  •	Fruits, snacks, and household items are the highest-selling categories.
+  •	Sales peaked in 2018, indicating a potential growth phase during that year.
+
 ### Hostital Emergency Room Dashboard Dashboard in Power BI
 **Demonstrate Video**:
 - **Goal**: 
