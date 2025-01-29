@@ -150,7 +150,7 @@ Age Groups: Adults (30 - 39 Years formed a large group (1200 Patients), followed
 ### Tableau Projects
 
 ### Netflix Data Dashboard
-- **Code**:[Netflix project](https://public.tableau.com/views/Netflix_17361456597660/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Code**:[Netflix project](https://public.tableau.com/views/Netflix_17361456597660/MovieTVshowonNetflixAnalysisdashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### IntelliJ IDEA(Java)
 ### Fitness tracking system
