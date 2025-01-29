@@ -21,6 +21,7 @@ Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/Yvonn
   - [Excel/Power BI Projects](#excel/power-bi-projects)
     - [Coffee shop Sales Dashboard](#coffee-shop-sales-dashboard)
     - [Grocery Data Dashboard in Power BI](#grocery-data-dashboard-in-power-bi)
+    - [Hostital Emergency Room Dashboard in Power BI](hostital-emergency-room-dashboard-in-power-bi)
   - [Tableau Projects](#tableau-projects)
     - [Netflix Data Dashboard](#netflix-data-dashboard)
   - [IntelliJ IDEA(Java)](#intellij-idea(java))
@@ -118,15 +119,14 @@ In this section, I will list the data analytics projects I have completed using 
 
 ### Coffee shop Sales Dashboard
 - **Code**:[Coffee shop Sales Dashboard in Excel](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ed1520c32d9204a64626dd1cc3cbd89d5cfa8fc/Excel-PowerBI/Coffee%20Shop%20Sales.xlsx)
-- **Objective**:The goal of this project is to analyze and visualize coffee sales data across different locations, time periods, and product categories. The dashboard provides insights into revenue trends, transaction volumes, and the best-performing products to help optimize sales strategies and operational efficiency.
+- **Objective**: The goal of this project is to analyze and visualize coffee sales data across different locations, time periods, and product categories. The dashboard provides insights into revenue trends, transaction volumes, and the best-performing products to help optimize sales strategies and operational efficiency.
 - **Business Insights and Recommendations for Data-Driven Decisions**:In Lower Manhattan, we see a clear spike in sales between 7 a.m. and 10 a.m. on Monday. Toward the evening, between 7 p.m. and 8 p.m., sales drop noticeably, with espresso and brewed coffee being the highest-selling products. From this pattern, we can gain insight: continuing to keep the store open during low-demand hours may lead to financial losses. Therefore, after 6 p.m., we could improve margins by adjusting our operating hours.
 
 In Astoria, transactions remain fairly steady throughout the day, but the most popular product is chai tea. Based on this, we could develop a wider variety of chai tea options or launch a marketing campaign to boost sales further.
 
 ### Grocery Data Dashboard in Power BI
 - **Demonstrate Video**: [Grocery Data Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/76e8a843b4c31a532fe7ff1b3afed2c87eabd562/Excel-PowerBI/Grocery%20Data%20Dashboard.mp4)
-- **Summary**: 
-This dashboard perform a sales performance report for Blinkit, an online grocery delivery service in India. The key metrics and visualizations provide insights into sales performance, item distribution, and outlet types.
+- **Summary**: This dashboard perform a sales performance report for Blinkit, an online grocery delivery service in India. The key metrics and visualizations provide insights into sales performance, item distribution, and outlet types.
 - **Business requirement**: 
 To conduct a comprehensive analysis of Blinkt's sales performance, customer satisfaction, and inventory distriburion to identify key insights and opportunites for optimization using various KPIs and visualizations in PowerBI.
 - ** Key Insight**:
@@ -137,8 +137,7 @@ To conduct a comprehensive analysis of Blinkt's sales performance, customer sati
 
 ### Hostital Emergency Room Dashboard in Power BI
 **Demonstrate Video**:[Hostital Emergency Room Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/76e8a843b4c31a532fe7ff1b3afed2c87eabd562/Excel-PowerBI/Hostital_er.mp4)
-- **Goal**: 
-To enhance operational, efficiency and provide actionable insight into emergency room performance, by created
+- **Goal**: To enhance operational, efficiency and provide actionable insight into emergency room performance, by created
 the dashboard will enable stakeholders to track, analyze, and data-driven decisions regarding patient management and service optimization. 
 - **About the dataset**:
 The emergency room dataset, covering a period of 19 months, records total of 9,216 unique patients. The dataset included patients’ basic information like name, age, gender and race also included wait time admission status and satisfaction score to identify the hospital emergency room performance. 
@@ -146,8 +145,7 @@ The emergency room dataset, covering a period of 19 months, records total of 9,2
 The Average wait time was approximately 35.3 minutes, Average satisfaction score was 4.99 out of 10. 
 The peak busiest period is on Saturday (1368) and Sunday (1361). The busiest hours were 13-14, 15-16, suggest we need to have more staff on duty to reduce the pressure of understaff.
 Age Groups: Adults (30 - 39 Years formed a large group (1200 Patients), followed by young adults (20 - 29 Years) with 1188 patients. 
-- **Summary**:
-The dataset reveals high patient volumes, moderate satisfaction levels, and common referrals to General Practice and Orthopedics. Saturday and Sunday are particularly busy. The patient demographics show a diverse age and racial composition, with nearly equal numbers of admitted and non-admitted patients. These insights can help optimize resource allocation and improve patient care in the emergency room.
+- **Summary**: The dataset reveals high patient volumes, moderate satisfaction levels, and common referrals to General Practice and Orthopedics. Saturday and Sunday are particularly busy. The patient demographics show a diverse age and racial composition, with nearly equal numbers of admitted and non-admitted patients. These insights can help optimize resource allocation and improve patient care in the emergency room.
 
 ### Tableau Projects
 
@@ -156,7 +154,8 @@ The dataset reveals high patient volumes, moderate satisfaction levels, and comm
 
 ### IntelliJ IDEA(Java)
 ### Fitness tracking system
-- **Code**:[Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java) 
+- **Code**:[Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java)
+- **Project Description**: This system is designed to assist monitor different user in their daily health habits and calorie intake. It offers functionalities to create and manage personal profiles, where users can log their meals, track physical activities, and view progress over time. Additionally, the system calculates calories consumed and burned based on personalized goals, enabling users to make informed decisions about their health. Features like notifications for achieving or exceeding daily targets. The ulGmate goal is to provide a comprehensive tool for managing health-related activities.
 
 ## Certificates
 - [Google Cloud Data Analytics Certificate](https://www.credly.com/badges/9e45beff-20ba-4502-ac12-b7bad6df5330)(Jan 2025)(Google Cloud)
