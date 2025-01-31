@@ -31,8 +31,6 @@ Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/Yvonn
 
 ### Python Projects
 
-In this section, I will list the data analytics projects I have completed using Python.
-
 ### A/B Testing on Website Theme
 
 - **Code**:[A/B Testing on Website Theme](https://github.com/yvonne924/YvonneY.Portfolio/blob/3d40612d87d940309a6b0144bd59dfea9234d419/Python/AB%20test.ipynb)
@@ -154,7 +152,6 @@ Age Groups: Adults (30 - 39 Years formed a large group (1200 Patients), followed
 -** Goal**: This dashboard provides an overview of Netflix's content library, highlighting the distribution of movies and TV shows by genre, rating, year of addition, and country of origin.
   
 ### IntelliJ IDEA(Java)
-
 ### Fitness tracking system
 - **Code**:[Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java)
 - **Project Description**: This system is designed to assist monitor different user in their daily health habits and calorie intake. It offers functionalities to create and manage personal profiles, where users can log their meals, track physical activities, and view progress over time. Additionally, the system calculates calories consumed and burned based on personalized goals, enabling users to make informed decisions about their health. Features like notifications for achieving or exceeding daily targets. The ulGmate goal is to provide a comprehensive tool for managing health-related activities.
