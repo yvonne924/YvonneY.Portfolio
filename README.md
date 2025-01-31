@@ -152,7 +152,9 @@ Age Groups: Adults (30 - 39 Years formed a large group (1200 Patients), followed
 ### Netflix Data Dashboard
 - **Code**:[Netflix project](https://public.tableau.com/views/Netflix_17361456597660/MovieTVshowonNetflixAnalysisdashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 -** Goal**: This dashboard provides an overview of Netflix's content library, highlighting the distribution of movies and TV shows by genre, rating, year of addition, and country of origin.
+  
 ### IntelliJ IDEA(Java)
+
 ### Fitness tracking system
 - **Code**:[Fitness tracking system](https://github.com/yvonne924/YvonneY.Portfolio/tree/b40b255c26e68a3b89d60c424714cf0e64f1d1d4/Java)
 - **Project Description**: This system is designed to assist monitor different user in their daily health habits and calorie intake. It offers functionalities to create and manage personal profiles, where users can log their meals, track physical activities, and view progress over time. Additionally, the system calculates calories consumed and burned based on personalized goals, enabling users to make informed decisions about their health. Features like notifications for achieving or exceeding daily targets. The ulGmate goal is to provide a comprehensive tool for managing health-related activities.
