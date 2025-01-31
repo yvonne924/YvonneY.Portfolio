@@ -14,14 +14,14 @@ Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/Yvonn
     - [A/B Testing on Website Theme](#a/b-testing-on-website-theme)
     - [Insurance Cross-Sell Analysis](#insurance-cross-sell-analysis)
     - [Loan Approval Prediction Analysis](#loan-approval-prediction)
-  - [MySQL Projects](#sql-projects)
-    - [Analyzing Students' Mental Health](#analyzing-students'-mental-health)
+  - [MySQL Projects](#mysql-projects)
+    - [Analyzing Students' Mental Health](#analyzing-students-mental-health)
   - [R Projects](#r-projects)
-    - [Sleep Health and Lifestyle Analysis (Study Project)](#sleep-health-and-lifestyle-analysis-studt-project)
+    - [Sleep Health and Lifestyle Analysis (Study Project)](#sleep-health-and-lifestyle-analysis-study-project)
   - [Excel/Power BI Projects](#excel/power-bi-projects)
     - [Coffee shop Sales Dashboard](#coffee-shop-sales-dashboard)
-    - [Grocery Data Dashboard in Power BI](#grocery-data-dashboard-in-power-bi)
-    - [Hostital Emergency Room Dashboard in Power BI](hostital-emergency-room-dashboard-in-power-bi)
+    - [Grocery Data Dashboard in PowerBI](#grocery-data-dashboard-in-powerbi)
+    - [Hostital Emergency Room Dashboard in PowerBI](hostital-emergency-room-dashboard-in-powerbi)
   - [Tableau Projects](#tableau-projects)
     - [Netflix Data Dashboard](#netflix-data-dashboard)
   - [IntelliJ IDEA(Java)](#intellij-idea(java))
@@ -117,14 +117,14 @@ In this section, I will list the data analytics projects I have completed using 
 
 ### Excel/Power BI Projects
 
-### Coffee shop Sales Dashboard
+### Coffee Shop Sales Dashboard
 - **Code**:[Coffee shop Sales Dashboard in Excel](https://github.com/yvonne924/YvonneY.Portfolio/blob/0ed1520c32d9204a64626dd1cc3cbd89d5cfa8fc/Excel-PowerBI/Coffee%20Shop%20Sales.xlsx)
 - **Objective**: The goal of this project is to analyze and visualize coffee sales data across different locations, time periods, and product categories. The dashboard provides insights into revenue trends, transaction volumes, and the best-performing products to help optimize sales strategies and operational efficiency.
 - **Business Insights and Recommendations for Data-Driven Decisions**:In Lower Manhattan, we see a clear spike in sales between 7 a.m. and 10 a.m. on Monday. Toward the evening, between 7 p.m. and 8 p.m., sales drop noticeably, with espresso and brewed coffee being the highest-selling products. From this pattern, we can gain insight: continuing to keep the store open during low-demand hours may lead to financial losses. Therefore, after 6 p.m., we could improve margins by adjusting our operating hours.
 
 In Astoria, transactions remain fairly steady throughout the day, but the most popular product is chai tea. Based on this, we could develop a wider variety of chai tea options or launch a marketing campaign to boost sales further.
 
-### Grocery Data Dashboard in Power BI
+### Grocery Data Dashboard in PowerBI
 - **Demonstrate Video**: [Grocery Data Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/76e8a843b4c31a532fe7ff1b3afed2c87eabd562/Excel-PowerBI/Grocery%20Data%20Dashboard.mp4)
 - **Summary**: This dashboard perform a sales performance report for Blinkit, an online grocery delivery service in India. The key metrics and visualizations provide insights into sales performance, item distribution, and outlet types.
 - **Business requirement**: 
