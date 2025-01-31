@@ -11,7 +11,7 @@ Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/Yvonn
 
 ## Project of Contents
   - [Python Projects](#python-projects)
-    - [A/B Testing on Website Theme](#a/b-testing-on-website-theme)
+    - [A/B Testing on Website Theme](#ab-testing-on-website-theme)
     - [Insurance Cross-Sell Analysis](#insurance-cross-sell-analysis)
     - [Loan Approval Prediction Analysis](#loan-approval-prediction)
   - [MySQL Projects](#mysql-projects)
