@@ -11,7 +11,7 @@ Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/Yvonn
 
 ## Project of Contents
   - [Python Projects](#python-projects)
-    - [A/B Testing on Website Theme](#a/b-testing)
+    - [A/B Testing on Website Theme](#a/b-testing-on-website-theme)
     - [Insurance Cross-Sell Analysis](#insurance-cross-sell-analysis)
     - [Loan Approval Prediction Analysis](#loan-approval-prediction)
   - [MySQL Projects](#sql-projects)
@@ -33,7 +33,7 @@ Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/Yvonn
 
 In this section, I will list the data analytics projects I have completed using Python.
 
-### A/B Testing 
+### A/B Testing on Website Theme
 
 - **Code**:[A/B Testing on Website Theme](https://github.com/yvonne924/YvonneY.Portfolio/blob/3d40612d87d940309a6b0144bd59dfea9234d419/Python/AB%20test.ipynb)
 - **Goal**: To determine which website design theme ("Light Theme" or "Dark Theme") performs better target to engaging users and increasing book purchases.
