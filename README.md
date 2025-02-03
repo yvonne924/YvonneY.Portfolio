@@ -58,7 +58,7 @@ Find my CV in [Here]([YeungLai_Yvonne_CV.pdf](https://github.com/yvonne924/Yvonn
   •Model Evaluation (ROC-AUC, accuracy metrics)
 - **Technology**:
   •	Python (Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)XGBoost and CatBoost libraries for model building
-  - **Results**: Achieved a highly accurate predictive model, with ROC-AUC scores indicating strong discriminatory power.Identified key features influencing cross-sell probability, such as customer age, previous policies held, and tenure. Delivered actionable insights to guide marketing teams, improving the efficiency of cross-selling campaigns.
+- **Results**: Achieved a highly accurate predictive model, with ROC-AUC scores indicating strong discriminatory power.Identified key features influencing cross-sell probability, such as customer age, previous policies held, and tenure. Delivered actionable insights to guide marketing teams, improving the efficiency of cross-selling campaigns.
 
 ### Loan Approval Prediction Analysis
 
