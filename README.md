@@ -146,7 +146,7 @@ Age Groups: Adults (30 - 39 Years formed a large group (1200 Patients), followed
 
 ### Netflix Data Dashboard
 - **Code**:[Netflix project](https://public.tableau.com/views/Netflix_17361456597660/MovieTVshowonNetflixAnalysisdashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
--** Goal**: This dashboard provides an overview of Netflix's content library, highlighting the distribution of movies and TV shows by genre, rating, year of addition, and country of origin.
+- ** Goal**: This dashboard provides an overview of Netflix's content library, highlighting the distribution of movies and TV shows by genre, rating, year of addition, and country of origin.
   
 ### IntelliJ IDEA(Java)
 ### Fitness tracking system
