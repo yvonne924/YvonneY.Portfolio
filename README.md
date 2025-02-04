@@ -124,13 +124,13 @@ In Astoria, transactions remain fairly steady throughout the day, but the most p
 - **Summary**: This dashboard perform a sales performance report for Blinkit, an online grocery delivery service in India. The key metrics and visualizations provide insights into sales performance, item distribution, and outlet types.
 - **Business requirement**: 
 To conduct a comprehensive analysis of Blinkt's sales performance, customer satisfaction, and inventory distriburion to identify key insights and opportunites for optimization using various KPIs and visualizations in PowerBI.
-- ** Key Insight**:
+- **Key Insight**:
   •	Tier 3 outlets contribute the most to total sales ($472K), followed by Tier 2 ($393K).
   •	Supermarket Type 2 is the best-performing outlet type in terms of total sales and number of items sold.
   •	Fruits, snacks, and household items are the highest-selling categories.
   •	Sales peaked in 2018, indicating a potential growth phase during that year.
 
-### Hostital Emergency Room Dashboard in Power BI
+### Hospital Emergency Room Dashboard in Power BI
 **Demonstrate Video**:[Hostital Emergency Room Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/76e8a843b4c31a532fe7ff1b3afed2c87eabd562/Excel-PowerBI/Hostital_er.mp4)
 - **Goal**: To enhance operational, efficiency and provide actionable insight into emergency room performance, by created
 the dashboard will enable stakeholders to track, analyze, and data-driven decisions regarding patient management and service optimization. 
@@ -146,7 +146,7 @@ Age Groups: Adults (30 - 39 Years formed a large group (1200 Patients), followed
 
 ### Netflix Data Dashboard
 - **Code**:[Netflix project](https://public.tableau.com/views/Netflix_17361456597660/MovieTVshowonNetflixAnalysisdashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- ** Goal**: This dashboard provides an overview of Netflix's content library, highlighting the distribution of movies and TV shows by genre, rating, year of addition, and country of origin.
+- **Goal**: This dashboard provides an overview of Netflix's content library, highlighting the distribution of movies and TV shows by genre, rating, year of addition, and country of origin.
   
 ### IntelliJ IDEA(Java)
 ### Fitness tracking system
