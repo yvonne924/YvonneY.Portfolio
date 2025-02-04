@@ -131,7 +131,7 @@ To conduct a comprehensive analysis of Blinkt's sales performance, customer sati
   •	Sales peaked in 2018, indicating a potential growth phase during that year.
 
 ### Hospital Emergency Room Dashboard in Power BI
-**Demonstrate Video**:[Hostital Emergency Room Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/76e8a843b4c31a532fe7ff1b3afed2c87eabd562/Excel-PowerBI/Hostital_er.mp4)
+**Demonstrate Video**:[Hospital Emergency Room Dashboard](https://github.com/yvonne924/YvonneY.Portfolio/blob/76e8a843b4c31a532fe7ff1b3afed2c87eabd562/Excel-PowerBI/Hostital_er.mp4)
 - **Goal**: To enhance operational, efficiency and provide actionable insight into emergency room performance, by created
 the dashboard will enable stakeholders to track, analyze, and data-driven decisions regarding patient management and service optimization. 
 - **About the dataset**:
@@ -141,7 +141,7 @@ The Average wait time was approximately 35.3 minutes, Average satisfaction score
 The peak busiest period is on Saturday (1368) and Sunday (1361). The busiest hours were 13-14, 15-16, suggest we need to have more staff on duty to reduce the pressure of understaff.
 Age Groups: Adults (30 - 39 Years formed a large group (1200 Patients), followed by young adults (20 - 29 Years) with 1188 patients. 
 - **Summary**: The dataset reveals high patient volumes, moderate satisfaction levels, and common referrals to General Practice and Orthopedics. Saturday and Sunday are particularly busy. The patient demographics show a diverse age and racial composition, with nearly equal numbers of admitted and non-admitted patients. These insights can help optimize resource allocation and improve patient care in the emergency room.
-
+- 
 ### Tableau Projects
 
 ### Netflix Data Dashboard
